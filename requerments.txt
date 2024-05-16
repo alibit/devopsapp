@@ -1,0 +1,2 @@
+html==5
+javascript==1.2
